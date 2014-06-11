@@ -1,0 +1,214 @@
+<!DOCTYPE CrossStudio_Project_File>
+<solution Name="LPC_CHIP" target="8" version="2">
+  <project Name="LPC_CHIP">
+    <configuration
+      Name="Common"
+      Target="LPC812"
+      arm_architecture="v6M"
+      arm_core_type="Cortex-M0+"
+      arm_gcc_target="arm-unknown-eabi"
+      arm_interwork="No"
+      arm_linker_heap_size="128"
+      arm_linker_process_stack_size="0"
+      arm_linker_stack_size="256"
+      arm_simulator_memory_simulation_filename="$(TargetsDir)/LPC1000/LPC1000SimulatorMemory.dll"
+      arm_simulator_memory_simulation_parameter="LPC8xx;0x4000;0x1000;0x0"
+      arm_target_debug_interface_type="ADIv5"
+      arm_target_interface_type="SWD"
+      arm_target_loader_parameter="12000000"
+      c_only_additional_options="-fms-extensions"
+      c_preprocessor_definitions="USE_PROCESS_STACK;CORE_M0PLUS"
+      c_user_include_directories="$(TargetsDir)/LPC1000/include/CMSIS;$(TargetsDir)/CMSIS_3/CMSIS/Include;$(TargetsDir)/LPC1000/include;/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/lpc_chip_8xx_lib/inc"
+      debug_initial_breakpoint_set_option="Never"
+      link_include_startup_code="No"
+      linker_additional_files="$(TargetsDir)/LPC1000/lib/liblpc1000$(LibExt)$(LIB)"
+      linker_memory_map_file="$(TargetsDir)/LPC1000/LPC812_MemoryMap.xml"
+      macros="LPC1000_Series=LPC8xx"
+      oscillator_frequency="12MHz"
+      project_directory=""
+      project_type="Executable"
+      property_groups_file_path="$(TargetsDir)/LPC1000/propertyGroups8xx.xml"
+      target_connect_script="Connect()" />
+    <configuration
+      Name="Flash"
+      Placement="Flash"
+      arm_target_flash_loader_file_path="$(TargetsDir)/LPC1000/Release/Loader_lpc8xx.elf"
+      arm_target_flash_loader_type="LIBMEM RPC Loader"
+      linker_patch_build_command="&quot;$(StudioDir)/bin/crossscript&quot; &quot;load(\&quot;$(TargetsDir)/LPC1000/LPC1000_LinkPatch.js\&quot;);patch(\&quot;$(TargetPath)\&quot;);&quot;"
+      linker_section_placement_file="$(StudioDir)/targets/Cortex_M/flash_placement.xml"
+      target_reset_script="FLASHReset()" />
+    <configuration
+      Name="RAM"
+      Placement="RAM"
+      linker_section_placement_file="$(StudioDir)/targets/Cortex_M/ram_placement.xml"
+      target_reset_script="SRAMReset()" />
+    <folder Name="Source Files">
+      <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc" />
+      <file file_name="src/acmp_8xx.c" />
+      <file file_name="src/chip_8xx.c" />
+      <file file_name="src/clock_8xx.c" />
+      <file file_name="src/crc_8xx.c" />
+      <file file_name="src/gpio_8xx.c" />
+      <file file_name="src/i2c_8xx.c" />
+      <file file_name="src/iocon_8xx.c" />
+      <file file_name="src/pinint_8xx.c" />
+      <file file_name="src/pmu_8xx.c" />
+      <file file_name="src/ring_buffer.c" />
+      <file file_name="src/sct_8xx.c" />
+      <file file_name="src/spi_8xx.c" />
+      <file file_name="src/swm_8xx.c" />
+      <file file_name="src/syscon_8xx.c" />
+      <file file_name="src/sysinit_8xx.c" />
+      <file file_name="src/uart_8xx.c" />
+      <file file_name="src/wkt_8xx.c" />
+      <file file_name="src/wwdt_8xx.c" />
+    </folder>
+    <folder Name="System Files">
+      <file file_name="$(StudioDir)/source/thumb_crt0.s" />
+      <file file_name="$(TargetsDir)/LPC1000/LPC8xx_Target.js">
+        <configuration Name="Common" file_type="Reset Script" />
+      </file>
+    </folder>
+    <folder Name="CMSIS Files">
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/LPC8xx.h" />
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/system_LPC8xx.h" />
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/system_LPC8xx.c" />
+    </folder>
+  </project>
+  <configuration
+    Name="THUMB RAM Debug"
+    inherited_configurations="THUMB;RAM;Debug" />
+  <configuration
+    Name="THUMB"
+    Platform="ARM"
+    arm_instruction_set="Thumb"
+    arm_library_instruction_set="Thumb"
+    c_preprocessor_definitions="__THUMB"
+    hidden="Yes" />
+  <configuration
+    Name="RAM"
+    c_preprocessor_definitions="__RAM_BUILD"
+    hidden="Yes" />
+  <configuration
+    Name="Debug"
+    c_preprocessor_definitions="DEBUG"
+    gcc_debugging_level="Level 3"
+    gcc_optimization_level="None"
+    hidden="Yes" />
+  <configuration
+    Name="THUMB RAM Release"
+    inherited_configurations="THUMB;RAM;Release" />
+  <configuration
+    Name="Release"
+    c_preprocessor_definitions="NDEBUG"
+    gcc_debugging_level="Level 1"
+    gcc_optimization_level="Level 1"
+    hidden="Yes" />
+  <configuration
+    Name="THUMB Flash Debug"
+    inherited_configurations="THUMB;Flash;Debug" />
+  <configuration
+    Name="Flash"
+    c_preprocessor_definitions="__FLASH_BUILD"
+    hidden="Yes" />
+  <configuration
+    Name="THUMB Flash Release"
+    inherited_configurations="THUMB;Flash;Release" />
+  <project Name="stepper">
+    <configuration
+      Name="Common"
+      Placement="Flash"
+      Target="LPC812"
+      arm_architecture="v6M"
+      arm_core_type="Cortex-M0+"
+      arm_gcc_target="arm-unknown-eabi"
+      arm_interwork="No"
+      arm_linker_heap_size="128"
+      arm_linker_process_stack_size="0"
+      arm_linker_stack_size="256"
+      arm_simulator_memory_simulation_filename="$(TargetsDir)/LPC1000/LPC1000SimulatorMemory.dll"
+      arm_simulator_memory_simulation_parameter="LPC8xx;0x4000;0x1000;0x0"
+      arm_target_debug_interface_type="ADIv5"
+      arm_target_interface_type="SWD"
+      arm_target_loader_parameter="12000000"
+      c_only_additional_options="-fms-extensions"
+      c_preprocessor_definitions="USE_PROCESS_STACK;__$(LPC1000_Series)_SERIES;CORE_M0PLUS"
+      c_user_include_directories="$(TargetsDir)/LPC1000/include/CMSIS;$(TargetsDir)/CMSIS_3/CMSIS/Include;$(TargetsDir)/LPC1000/include;/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/lpc_chip_8xx_lib/inc"
+      debug_initial_breakpoint_set_option="Only With No Breakpoints Set"
+      gcc_optimization_level="Debug"
+      link_include_startup_code="No"
+      linker_additional_files="$(TargetsDir)/LPC1000/lib/liblpc1000$(LibExt)$(LIB);/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/lpc_chip_8xx_lib/LPC_CHIP THUMB Flash Debug/gpio_8xx.o;/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/lpc_chip_8xx_lib/LPC_CHIP THUMB Flash Debug/swm_8xx.o;/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/lpc_chip_8xx_lib/LPC_CHIP THUMB Flash Debug/sct_8xx.o"
+      linker_memory_map_file="$(TargetsDir)/LPC1000/LPC812_MemoryMap.xml"
+      linker_printf_fmt_level="int"
+      linker_printf_fp_enabled="No"
+      linker_printf_width_precision_supported="No"
+      linker_scanf_character_group_matching_enabled="No"
+      linker_scanf_fmt_level="int"
+      linker_scanf_fp_enabled="No"
+      linker_section_placement_file="$(StudioDir)/targets/Cortex_M/flash_placement.xml"
+      macros="LPC1000_Series=LPC8xx"
+      oscillator_frequency="12MHz"
+      project_dependencies=""
+      project_directory="../stepper"
+      project_type="Executable"
+      property_groups_file_path="$(TargetsDir)/LPC1000/propertyGroups8xx.xml"
+      target_connect_script="Connect()" />
+    <configuration
+      Name="Flash"
+      Placement="Flash"
+      arm_target_flash_loader_file_path="$(TargetsDir)/LPC1000/Release/Loader_lpc8xx.elf"
+      arm_target_flash_loader_type="LIBMEM RPC Loader"
+      linker_patch_build_command="&quot;$(StudioDir)/bin/crossscript&quot; &quot;load(\&quot;$(TargetsDir)/LPC1000/LPC1000_LinkPatch.js\&quot;);patch(\&quot;$(TargetPath)\&quot;);&quot;"
+      linker_section_placement_file="$(StudioDir)/targets/Cortex_M/flash_placement.xml"
+      target_reset_script="FLASHReset()" />
+    <configuration
+      Name="RAM"
+      Placement="RAM"
+      linker_section_placement_file="$(StudioDir)/targets/Cortex_M/ram_placement.xml"
+      target_reset_script="SRAMReset()" />
+    <folder Name="Source Files">
+      <configuration
+        Name="Common"
+        c_user_include_directories="."
+        filter="c;cpp;cxx;cc;h;s;asm;inc" />
+      <file file_name="workingramp.c">
+        <configuration
+          Name="THUMB Flash Debug"
+          build_exclude_from_build="No" />
+      </file>
+      <file file_name="workingramp_defs.h">
+        <configuration
+          Name="THUMB Flash Debug"
+          build_exclude_from_build="No" />
+      </file>
+      <file file_name="PID_v1.c">
+        <configuration
+          Name="THUMB Flash Debug"
+          build_exclude_from_build="Yes" />
+      </file>
+      <file file_name="PID_v1.h" />
+      <file file_name="steptest.c">
+        <configuration
+          Name="THUMB Flash Debug"
+          build_exclude_from_build="No" />
+      </file>
+    </folder>
+    <folder Name="System Files">
+      <file file_name="$(StudioDir)/source/thumb_crt0.s" />
+      <file file_name="$(TargetsDir)/LPC1000/LPC8xx_Startup.s" />
+      <file file_name="$(TargetsDir)/LPC1000/LPC8xx_Target.js">
+        <configuration Name="Common" file_type="Reset Script" />
+      </file>
+    </folder>
+    <folder Name="CMSIS Files">
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/LPC8xx.h" />
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/system_LPC8xx.h" />
+      <file file_name="$(TargetsDir)/LPC1000/include/CMSIS/system_LPC8xx.c" />
+    </folder>
+  </project>
+  <configuration
+    Name="Common"
+    arm_architecture="v6M"
+    arm_core_type="Cortex-M0+"
+    gcc_optimization_level="Debug" />
+</solution>

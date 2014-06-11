@@ -1,0 +1,1933 @@
+Archive member included because of file (symbol)
+
+/usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+                              LPC_CHIP THUMB Flash Debug/clock_8xx.o (__aeabi_uidiv)
+/usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+                              LPC_CHIP THUMB Flash Debug/ring_buffer.o (memcpy)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_Init
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_Deinit
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_EdgeClear
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetEdgeSelection
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetPosVoltRef
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetNegVoltRef
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetHysteresis
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetupAMCPRefs
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .text.Chip_ACMP_SetupVoltLadder
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_frame   0x00000000      0x1f4 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_info    0x00000000      0x7d3 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_abbrev  0x00000000      0x157 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_aranges
+                0x00000000       0x70 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_ranges  0x00000000       0x60 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_line    0x00000000      0x400 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .debug_str     0x00000000     0x6e7f LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_info    0x00000000       0x91 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_abbrev  0x00000000       0x4c LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_aranges
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_line    0x00000000      0x31b LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .debug_str     0x00000000     0x6837 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/chip_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetMainOscRate
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetIntOscRate
+                0x00000000       0x10 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetExtClockInRate
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .rodata.wdtOSCRate
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetWDTLFORate
+                0x00000000       0x48 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetPLLFreq
+                0x00000000       0x24 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_SetSystemPLLSource
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_SetPLLBypass
+                0x00000000       0x48 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_SetMainClockSource
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetWDTOSCRate
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x00000000       0x50 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x00000000       0x24 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetMainClockRate
+                0x00000000       0x64 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .text.Chip_Clock_GetSystemClockRate
+                0x00000000       0x24 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_frame   0x00000000      0x24c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_info    0x00000000      0x716 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_abbrev  0x00000000      0x184 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_aranges
+                0x00000000       0x88 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_ranges  0x00000000       0x78 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_line    0x00000000      0x450 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .debug_str     0x00000000     0x6edc LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/clock_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_UseCRC16
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_UseCRC32
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_UseCCITT
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Write8
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Write16
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Write32
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Sum
+                0x00000000       0x10 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Init
+                0x00000000       0x10 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_Deinit
+                0x00000000       0x10 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_UseDefaultConfig
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_CRC8
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_CRC16
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .text.Chip_CRC_CRC32
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_frame   0x00000000      0x274 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_info    0x00000000      0x71c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_abbrev  0x00000000      0x1a4 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_aranges
+                0x00000000       0x90 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_ranges  0x00000000       0x80 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_line    0x00000000      0x466 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .debug_str     0x00000000     0x6d97 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/crc_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000000       0x44 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00000000       0x48 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPortDIROutput
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPortDIRInput
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_Init
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_DeInit
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_WriteDirBit
+                0x00000000       0x80 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPinDIR
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetDir
+                0x00000000       0x7c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .text.Chip_GPIO_SetPortDIR
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_frame   0x00000000      0x220 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_info    0x00000000      0x82c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_abbrev  0x00000000      0x13d LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_aranges
+                0x00000000       0x78 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_ranges  0x00000000       0x68 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_line    0x00000000      0x414 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .debug_str     0x00000000     0x6d3c LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_SYSCTL_AssertPeriphReset
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_SYSCTL_DeassertPeriphReset
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_SYSCTL_PeriphReset
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_I2C_Init
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .text.Chip_I2C_DeInit
+                0x00000000       0x10 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_frame   0x00000000      0x134 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_info    0x00000000      0x59d LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_abbrev  0x00000000      0x11f LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_aranges
+                0x00000000       0x50 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_ranges  0x00000000       0x40 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_line    0x00000000      0x3a0 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .debug_str     0x00000000     0x6d38 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinEnableHysteresis
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinDisableHysteresis
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinEnableInputInverted
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinDisableInputInverted
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinEnableOpenDrainMode
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinDisableOpenDrainMode
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetMode
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetHysteresis
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetInputInverted
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetOpenDrainMode
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetSampleMode
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetClockDivisor
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .text.Chip_IOCON_PinSetI2CMode
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_frame   0x00000000      0x24c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_info    0x00000000      0x554 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_abbrev  0x00000000      0x155 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_aranges
+                0x00000000       0x80 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_ranges  0x00000000       0x70 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_line    0x00000000      0x41c LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .debug_str     0x00000000     0x6c94 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .text.Chip_PININT_SetPatternMatchSrc
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .text.Chip_PININT_SetPatternMatchConfig
+                0x00000000       0x84 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_frame   0x00000000       0x68 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_info    0x00000000      0x299 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_abbrev  0x00000000       0xdb LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_aranges
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_ranges  0x00000000       0x18 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_line    0x00000000      0x344 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .debug_str     0x00000000     0x6a98 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text.Chip_PMU_SleepState
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text.Chip_PMU_DeepSleepState
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text.Chip_PMU_PowerDownState
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text.Chip_PMU_DeepPowerDownState
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .text.Chip_PMU_Sleep
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_frame   0x00000000       0xec LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_info    0x00000000      0x2cd LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_abbrev  0x00000000      0x13f LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_aranges
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_ranges  0x00000000       0x30 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_line    0x00000000      0x3a7 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .debug_str     0x00000000     0x697a LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_GetCount
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_GetFree
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_IsFull
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_IsEmpty
+                0x00000000       0x24 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_Init
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_Insert
+                0x00000000       0x60 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_InsertMult
+                0x00000000      0x124 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_Pop
+                0x00000000       0x60 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .text.RingBuffer_PopMult
+                0x00000000      0x124 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_frame   0x00000000      0x19c LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_info    0x00000000      0x34b LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_abbrev  0x00000000      0x12d LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_aranges
+                0x00000000       0x60 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_ranges  0x00000000       0x50 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x65 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x89 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x5f LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_line    0x00000000      0x220 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .debug_str     0x00000000     0x2fd1 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/ring_buffer.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SYSCTL_AssertPeriphReset
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SYSCTL_DeassertPeriphReset
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SYSCTL_PeriphReset
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_SetControl
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_ClearControl
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_Init
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_DeInit
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_SetClrControl
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .text.Chip_SCT_SetConflictResolution
+                0x00000000       0x48 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_frame   0x00000000      0x1f4 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_info    0x00000000      0xd37 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_abbrev  0x00000000      0x1e5 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_aranges
+                0x00000000       0x70 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_ranges  0x00000000       0x60 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_line    0x00000000      0x3f3 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .debug_str     0x00000000     0x6f5f LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/sct_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SYSCTL_AssertPeriphReset
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SYSCTL_DeassertPeriphReset
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SYSCTL_PeriphReset
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_Enable
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_Disable
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_GetStatus
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_ClearStatus
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_SetControlInfo
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_SendMidFrame
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_SendLastFrame_RxIgnore
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_SendLastFrame
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_ReceiveFrame
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.SPI_Send_Data_RxIgnore
+                0x00000000       0x64 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.SPI_Send_Data
+                0x00000000       0x64 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.SPI_Send_Dummy
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.SPI_Receive_Data
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_CalClkRateDivider
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_Init
+                0x00000000       0x98 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_DeInit
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_DelayConfig
+                0x00000000       0x68 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_Int_Cmd
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_RWFrames_Blocking
+                0x00000000       0xc0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_WriteFrames_Blocking
+                0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_ReadFrames_Blocking
+                0x00000000       0xa4 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .text.Chip_SPI_Int_RWFrames
+                0x00000000       0xb4 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_frame   0x00000000      0x4b4 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_info    0x00000000      0xcfd LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_abbrev  0x00000000      0x213 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_aranges
+                0x00000000       0xf0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_ranges  0x00000000       0xe0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_line    0x00000000      0x60c LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .debug_str     0x00000000     0x71df LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/spi_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .text.Chip_SWM_EnableFixedPin
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .text.Chip_SWM_DisableFixedPin
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .text.Chip_SWM_MovablePinAssign
+                0x00000000       0x64 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .text.Chip_SWM_FixedPinEnable
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_frame   0x00000000       0xc0 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_info    0x00000000      0x33a LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_abbrev  0x00000000      0x125 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_aranges
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_ranges  0x00000000       0x28 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x174 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_line    0x00000000      0x369 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .debug_str     0x00000000     0x6c37 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/swm_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .text.Chip_SYSCTL_SetDeepSleepPD
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .text.Chip_SYSCTL_SetWakeup
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .text.Chip_SYSCTL_PowerDown
+                0x00000000       0x44 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .text.Chip_SYSCTL_PowerUp
+                0x00000000       0x44 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_frame   0x00000000       0xc0 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_info    0x00000000      0x481 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_abbrev  0x00000000       0xcc LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_aranges
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_ranges  0x00000000       0x28 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x180 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_line    0x00000000      0x368 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .debug_str     0x00000000     0x6b45 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text.Chip_Clock_SetupSystemPLL
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text.Chip_Clock_IsSystemPLLLocked
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text.Chip_Clock_SetSysClockDiv
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text.Chip_FMC_SetFLASHAccess
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .text.Chip_SystemInit
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_frame   0x00000000       0xdc LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_info    0x00000000      0x599 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_abbrev  0x00000000      0x13b LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_aranges
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_ranges  0x00000000       0x30 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_line    0x00000000      0x38e LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .debug_str     0x00000000     0x6c9b LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_SYSCTL_AssertPeriphReset
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_SYSCTL_DeassertPeriphReset
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_SYSCTL_PeriphReset
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_SYSCTL_SetUSARTFRGDivider
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_SYSCTL_SetUSARTFRGMultiplier
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.RingBuffer_IsEmpty
+                0x00000000       0x24 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_SendByte
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_ReadByte
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_IntEnable
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_IntDisable
+                0x00000000       0x18 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_GetStatus
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.getUARTClockID
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_Init
+                0x00000000       0x4c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_DeInit
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_Send
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_SendBlocking
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_Read
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_ReadBlocking
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_SetBaud
+                0x00000000       0x6c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_RXIntHandlerRB
+                0x00000000       0x44 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_TXIntHandlerRB
+                0x00000000       0x48 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_SendRB
+                0x00000000       0x70 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_ReadRB
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .text.Chip_UART_IRQRBHandler
+                0x00000000       0x54 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_frame   0x00000000      0x488 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_info    0x00000000      0xbce LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_abbrev  0x00000000      0x1d8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_aranges
+                0x00000000       0xe8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_ranges  0x00000000       0xd8 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_line    0x00000000      0x58f LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .debug_str     0x00000000     0x6fcd LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/uart_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .text.Chip_WKT_GetClockSource
+                0x00000000       0x1c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .text.Chip_WKT_SetClockSource
+                0x00000000       0x3c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .text.Chip_WKT_GetClockRate
+                0x00000000       0x2c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .text.Chip_WKT_Start
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_frame   0x00000000       0xc0 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_info    0x00000000      0x1ce LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_abbrev  0x00000000      0x11d LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_aranges
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_ranges  0x00000000       0x28 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_line    0x00000000      0x36b LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .debug_str     0x00000000     0x68ec LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x30 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text.Chip_WWDT_Init
+                0x00000000       0x34 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text.Chip_WWDT_DeInit
+                0x00000000       0x14 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text.Chip_WWDT_ClearStatusFlag
+                0x00000000       0x38 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_frame   0x00000000       0xec LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_info    0x00000000      0x593 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_abbrev  0x00000000      0x13b LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_aranges
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_ranges  0x00000000       0x30 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x168 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x66 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x22 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x241 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x100 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x70 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0xa0 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x10 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x64 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x4c LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x6a LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x76 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x16 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x106 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0x2e LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000       0xd2 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_macro   0x00000000      0x201 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_line    0x00000000      0x380 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .debug_str     0x00000000     0x6c73 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .init          0x00000000      0x154 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .stack         0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .stack_process
+                0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .heap          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .ARM.attributes
+                0x00000000       0x22 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .debug_line    0x00000000       0xfd LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .debug_info    0x00000000       0xa3 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .debug_abbrev  0x00000000       0x14 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .debug_aranges
+                0x00000000       0x20 LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .group         0x00000000        0x8 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .text          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .data          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .bss           0x00000000        0x0 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x1c4 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .rodata.SystemCoreClockUpdate
+                0x00000000       0x40 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .text.SystemInit
+                0x00000000       0xf0 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_frame   0x00000000       0x68 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_info    0x00000000      0x614 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_abbrev  0x00000000      0x173 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_aranges
+                0x00000000       0x28 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_ranges  0x00000000       0x18 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000       0xd7 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000      0x856 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000      0x188 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000       0x1c LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000       0x3a LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000       0x1f LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000      0x242 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_macro   0x00000000      0x146 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_line    0x00000000      0x21a LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .debug_str     0x00000000     0x45e1 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .comment       0x00000000       0x4f LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .ARM.attributes
+                0x00000000       0x32 LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+ .text.libc     0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .data.libc     0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .bss.libc      0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_umod
+                0x00000000        0xc /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .debug_frame   0x00000000      0x220 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_asr
+                0x00000000       0x24 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_div
+                0x00000000       0x38 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_lsl
+                0x00000000       0x24 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_lsr
+                0x00000000       0x24 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_mod
+                0x00000000       0x38 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_udivmod
+                0x00000000       0xac /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__aeabi_ldivmod
+                0x00000000       0x48 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_cmp
+                0x00000000       0x1c /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_ucmp
+                0x00000000       0x1c /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.muldi3
+                0x00000000       0x60 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int32_umod
+                0x00000000        0xc /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int32_div
+                0x00000000       0x64 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .rodata.libc.__aeabi_uidiv
+                0x00000000       0x40 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int32_mod
+                0x00000000        0xc /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__aeabi_uidivmod
+                0x00000000       0x2c /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__aeabi_idivmod
+                0x00000000       0x40 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_shi
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_si
+                0x00000000       0x18 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_sqi
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_uhi
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_uqi
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .ARM.attributes
+                0x00000000       0x1b /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc     0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .data.libc     0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .bss.libc      0x00000000        0x0 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.longjmp
+                0x00000000       0x30 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .debug_frame   0x00000000      0x120 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy
+                0x00000000       0x18 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy_fast
+                0x00000000        0x4 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy_small
+                0x00000000       0x18 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memset
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.__aeabi_memset
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.setjmp
+                0x00000000       0x28 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.strcpy
+                0x00000000       0x10 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.strcmp
+                0x00000000       0x14 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.strlen
+                0x00000000       0x10 /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .ARM.attributes
+                0x00000000       0x1b /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+UNPLACED_SECTIONS 0xffffffff         0x00000000         xw
+CM0_System_Control_Space 0xe000e000         0x00001000         xw
+RAM              0x10000000         0x00001000         xw
+FLASH            0x00000000         0x00004000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0xe000e000                __CM0_System_Control_Space_segment_start__ = 0xe000e000
+                0xe000f000                __CM0_System_Control_Space_segment_end__ = 0xe000f000
+                0x10000000                __RAM_segment_start__ = 0x10000000
+                0x10001000                __RAM_segment_end__ = 0x10001000
+                0x00000000                __FLASH_segment_start__ = 0x0
+                0x00004000                __FLASH_segment_end__ = 0x4000
+                0x00000080                __HEAPSIZE__ = 0x80
+                0x00000000                __STACKSIZE_ABT__ = 0x0
+                0x00000000                __STACKSIZE_FIQ__ = 0x0
+                0x00000000                __STACKSIZE_IRQ__ = 0x0
+                0x00000000                __STACKSIZE_PROCESS__ = 0x0
+                0x00000000                __STACKSIZE_SVC__ = 0x0
+                0x00000000                __STACKSIZE_UND__ = 0x0
+                0x00000100                __STACKSIZE__ = 0x100
+                0x10000000                __vectors_ram_load_start__ = ALIGN (__RAM_segment_start__, 0x100)
+
+.vectors_ram    0x10000000        0x0
+                0x10000000                __vectors_ram_start__ = .
+ *(.vectors_ram .vectors_ram.*)
+                0x10000000                __vectors_ram_end__ = (__vectors_ram_start__ + SIZEOF (.vectors_ram))
+                0x10000000                __vectors_ram_load_end__ = __vectors_ram_end__
+                0x00000001                . = ASSERT (((__vectors_ram_start__ == __vectors_ram_end__) || ((__vectors_ram_end__ >= __RAM_segment_start__) && (__vectors_ram_end__ <= __RAM_segment_end__))), error: .vectors_ram is too large to fit in RAM memory segment)
+                0x00000000                __vectors_load_start__ = ALIGN (__FLASH_segment_start__, 0x100)
+
+.vectors        0x00000000        0x0
+                0x00000000                __vectors_start__ = .
+ *(.vectors .vectors.*)
+                0x00000000                __vectors_end__ = (__vectors_start__ + SIZEOF (.vectors))
+                0x00000000                __vectors_load_end__ = __vectors_end__
+                0x00000001                . = ASSERT (((__vectors_start__ == __vectors_end__) || ((__vectors_end__ >= __FLASH_segment_start__) && (__vectors_end__ <= __FLASH_segment_end__))), error: .vectors is too large to fit in FLASH memory segment)
+                0x00000000                __init_load_start__ = ALIGN (__vectors_end__, 0x4)
+
+.init           0x00000000        0x0
+                0x00000000                __init_start__ = .
+ *(.init .init.*)
+                0x00000000                __init_end__ = (__init_start__ + SIZEOF (.init))
+                0x00000000                __init_load_end__ = __init_end__
+                0x00000001                . = ASSERT (((__init_start__ == __init_end__) || ((__init_end__ >= __FLASH_segment_start__) && (__init_end__ <= __FLASH_segment_end__))), error: .init is too large to fit in FLASH memory segment)
+                0x00000000                __text_load_start__ = ALIGN (__init_end__, 0x4)
+
+.text           0x00000000        0x0
+                0x00000000                __text_start__ = .
+ *(.text .text.* .glue_7t .glue_7 .gnu.linkonce.t.* .gcc_except_table .ARM.extab* .gnu.linkonce.armextab.*)
+ .glue_7        0x00000000        0x0 linker stubs
+ .glue_7t       0x00000000        0x0 linker stubs
+                0x00000000                __text_end__ = (__text_start__ + SIZEOF (.text))
+                0x00000000                __text_load_end__ = __text_end__
+
+.vfp11_veneer   0x00000000        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000000        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00000000        0x0
+ .iplt          0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+
+.rel.dyn        0x00000000        0x0
+ .rel.iplt      0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+                0x00000001                . = ASSERT (((__text_start__ == __text_end__) || ((__text_end__ >= __FLASH_segment_start__) && (__text_end__ <= __FLASH_segment_end__))), error: .text is too large to fit in FLASH memory segment)
+                0x00000000                __dtors_load_start__ = ALIGN (__text_end__, 0x4)
+
+.dtors          0x00000000        0x0
+                0x00000000                __dtors_start__ = .
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.fini_array .fini_array.*)
+                0x00000000                __dtors_end__ = (__dtors_start__ + SIZEOF (.dtors))
+                0x00000000                __dtors_load_end__ = __dtors_end__
+                0x00000001                . = ASSERT (((__dtors_start__ == __dtors_end__) || ((__dtors_end__ >= __FLASH_segment_start__) && (__dtors_end__ <= __FLASH_segment_end__))), error: .dtors is too large to fit in FLASH memory segment)
+                0x00000000                __ctors_load_start__ = ALIGN (__dtors_end__, 0x4)
+
+.ctors          0x00000000        0x0
+                0x00000000                __ctors_start__ = .
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *(.init_array .init_array.*)
+                0x00000000                __ctors_end__ = (__ctors_start__ + SIZEOF (.ctors))
+                0x00000000                __ctors_load_end__ = __ctors_end__
+                0x00000001                . = ASSERT (((__ctors_start__ == __ctors_end__) || ((__ctors_end__ >= __FLASH_segment_start__) && (__ctors_end__ <= __FLASH_segment_end__))), error: .ctors is too large to fit in FLASH memory segment)
+                0x00000000                __rodata_load_start__ = ALIGN (__ctors_end__, 0x4)
+
+.rodata         0x00000000        0x0
+                0x00000000                __rodata_start__ = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+                0x00000000                __rodata_end__ = (__rodata_start__ + SIZEOF (.rodata))
+                0x00000000                __rodata_load_end__ = __rodata_end__
+                0x00000001                . = ASSERT (((__rodata_start__ == __rodata_end__) || ((__rodata_end__ >= __FLASH_segment_start__) && (__rodata_end__ <= __FLASH_segment_end__))), error: .rodata is too large to fit in FLASH memory segment)
+                0x00000000                __ARM.exidx_load_start__ = ALIGN (__rodata_end__, 0x4)
+
+.ARM.exidx      0x00000000        0x0
+                0x00000000                __ARM.exidx_start__ = .
+                0x00000000                __exidx_start = __ARM.exidx_start__
+ *(.ARM.exidx .ARM.exidx.*)
+                0x00000000                __ARM.exidx_end__ = (__ARM.exidx_start__ + SIZEOF (.ARM.exidx))
+                0x00000000                __exidx_end = __ARM.exidx_end__
+                0x00000000                __ARM.exidx_load_end__ = __ARM.exidx_end__
+                0x00000001                . = ASSERT (((__ARM.exidx_start__ == __ARM.exidx_end__) || ((__ARM.exidx_end__ >= __FLASH_segment_start__) && (__ARM.exidx_end__ <= __FLASH_segment_end__))), error: .ARM.exidx is too large to fit in FLASH memory segment)
+                0x00000000                __fast_load_start__ = ALIGN (__ARM.exidx_end__, 0x4)
+
+.fast           0x10000000        0x0 load address 0x00000000
+                0x10000000                __fast_start__ = .
+ *(.fast .fast.*)
+                0x10000000                __fast_end__ = (__fast_start__ + SIZEOF (.fast))
+                0x00000000                __fast_load_end__ = (__fast_load_start__ + SIZEOF (.fast))
+                0x00000001                . = ASSERT (((__fast_load_start__ == __fast_load_end__) || ((__fast_load_end__ >= __FLASH_segment_start__) && (__fast_load_end__ <= __FLASH_segment_end__))), error: .fast is too large to fit in FLASH memory segment)
+
+.fast_run       0x10000000        0x0
+                0x10000000                __fast_run_start__ = .
+                0x10000000                . = MAX ((__fast_run_start__ + SIZEOF (.fast)), .)
+                0x10000000                __fast_run_end__ = (__fast_run_start__ + SIZEOF (.fast_run))
+                0x10000000                __fast_run_load_end__ = __fast_run_end__
+                0x00000001                . = ASSERT (((__fast_run_start__ == __fast_run_end__) || ((__fast_run_end__ >= __RAM_segment_start__) && (__fast_run_end__ <= __RAM_segment_end__))), error: .fast_run is too large to fit in RAM memory segment)
+                0x00000000                __data_load_start__ = ALIGN ((__fast_load_start__ + SIZEOF (.fast)), 0x4)
+
+.data           0x10000000        0x0 load address 0x00000000
+                0x10000000                __data_start__ = .
+ *(.data .data.* .gnu.linkonce.d.*)
+                0x10000000                __data_end__ = (__data_start__ + SIZEOF (.data))
+                0x00000000                __data_load_end__ = (__data_load_start__ + SIZEOF (.data))
+
+.igot.plt       0x00000000        0x0
+ .igot.plt      0x00000000        0x0 LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+                0x00000001                . = ASSERT (((__data_load_start__ == __data_load_end__) || ((__data_load_end__ >= __FLASH_segment_start__) && (__data_load_end__ <= __FLASH_segment_end__))), error: .data is too large to fit in FLASH memory segment)
+
+.data_run       0x10000000        0x0
+                0x10000000                __data_run_start__ = .
+                0x10000000                . = MAX ((__data_run_start__ + SIZEOF (.data)), .)
+                0x10000000                __data_run_end__ = (__data_run_start__ + SIZEOF (.data_run))
+                0x10000000                __data_run_load_end__ = __data_run_end__
+                0x00000001                . = ASSERT (((__data_run_start__ == __data_run_end__) || ((__data_run_end__ >= __RAM_segment_start__) && (__data_run_end__ <= __RAM_segment_end__))), error: .data_run is too large to fit in RAM memory segment)
+                0x00000000                __tdata_load_start__ = ALIGN ((__data_load_start__ + SIZEOF (.data)), 0x4)
+
+.tdata          0x10000000        0x0 load address 0x00000000
+                0x10000000                __tdata_start__ = .
+ *(.tdata .tdata.*)
+                0x10000000                __tdata_end__ = (__tdata_start__ + SIZEOF (.tdata))
+                0x00000000                __tdata_load_end__ = (__tdata_load_start__ + SIZEOF (.tdata))
+                0x00000000                __FLASH_segment_used_end__ = (ALIGN ((__data_load_start__ + SIZEOF (.data)), 0x4) + SIZEOF (.tdata))
+                0x00000001                . = ASSERT (((__tdata_load_start__ == __tdata_load_end__) || ((__tdata_load_end__ >= __FLASH_segment_start__) && (__tdata_load_end__ <= __FLASH_segment_end__))), error: .tdata is too large to fit in FLASH memory segment)
+
+.tdata_run      0x10000000        0x0
+                0x10000000                __tdata_run_start__ = .
+                0x10000000                . = MAX ((__tdata_run_start__ + SIZEOF (.tdata)), .)
+                0x10000000                __tdata_run_end__ = (__tdata_run_start__ + SIZEOF (.tdata_run))
+                0x10000000                __tdata_run_load_end__ = __tdata_run_end__
+                0x00000001                . = ASSERT (((__tdata_run_start__ == __tdata_run_end__) || ((__tdata_run_end__ >= __RAM_segment_start__) && (__tdata_run_end__ <= __RAM_segment_end__))), error: .tdata_run is too large to fit in RAM memory segment)
+                0x10000000                __bss_load_start__ = ALIGN (__tdata_run_end__, 0x4)
+
+.bss            0x10000000        0x0
+                0x10000000                __bss_start__ = .
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ *(COMMON)
+                0x10000000                __bss_end__ = (__bss_start__ + SIZEOF (.bss))
+                0x10000000                __bss_load_end__ = __bss_end__
+                0x00000001                . = ASSERT (((__bss_start__ == __bss_end__) || ((__bss_end__ >= __RAM_segment_start__) && (__bss_end__ <= __RAM_segment_end__))), error: .bss is too large to fit in RAM memory segment)
+                0x10000000                __tbss_load_start__ = ALIGN (__bss_end__, 0x4)
+
+.tbss           0x10000000        0x0
+                0x10000000                __tbss_start__ = .
+ *(.tbss .tbss.*)
+                0x10000000                __tbss_end__ = (__tbss_start__ + SIZEOF (.tbss))
+                0x10000000                __tbss_load_end__ = __tbss_end__
+                0x00000001                . = ASSERT (((__tbss_start__ == __tbss_end__) || ((__tbss_end__ >= __RAM_segment_start__) && (__tbss_end__ <= __RAM_segment_end__))), error: .tbss is too large to fit in RAM memory segment)
+                0x10000000                __non_init_load_start__ = ALIGN (__tbss_end__, 0x4)
+
+.non_init       0x10000000        0x0
+                0x10000000                __non_init_start__ = .
+ *(.non_init .non_init.*)
+                0x10000000                __non_init_end__ = (__non_init_start__ + SIZEOF (.non_init))
+                0x10000000                __non_init_load_end__ = __non_init_end__
+                0x00000001                . = ASSERT (((__non_init_start__ == __non_init_end__) || ((__non_init_end__ >= __RAM_segment_start__) && (__non_init_end__ <= __RAM_segment_end__))), error: .non_init is too large to fit in RAM memory segment)
+                0x10000000                __heap_load_start__ = ALIGN (__non_init_end__, 0x4)
+
+.heap           0x10000000       0x80
+                0x10000000                __heap_start__ = .
+ *(.heap .heap.*)
+                0x10000080                . = ALIGN (MAX ((__heap_start__ + __HEAPSIZE__), .), 0x4)
+ *fill*         0x10000000       0x80 
+                0x10000080                __heap_end__ = (__heap_start__ + SIZEOF (.heap))
+                0x10000080                __heap_load_end__ = __heap_end__
+                0x00000001                . = ASSERT (((__heap_start__ == __heap_end__) || ((__heap_end__ >= __RAM_segment_start__) && (__heap_end__ <= __RAM_segment_end__))), error: .heap is too large to fit in RAM memory segment)
+                0x10000080                __stack_load_start__ = ALIGN (__heap_end__, 0x8)
+
+.stack          0x10000080      0x100
+                0x10000080                __stack_start__ = .
+ *(.stack .stack.*)
+                0x10000180                . = ALIGN (MAX ((__stack_start__ + __STACKSIZE__), .), 0x8)
+ *fill*         0x10000080      0x100 
+                0x10000180                __stack_end__ = (__stack_start__ + SIZEOF (.stack))
+                0x10000180                __stack_load_end__ = __stack_end__
+                0x00000001                . = ASSERT (((__stack_start__ == __stack_end__) || ((__stack_end__ >= __RAM_segment_start__) && (__stack_end__ <= __RAM_segment_end__))), error: .stack is too large to fit in RAM memory segment)
+                0x10000180                __stack_process_load_start__ = ALIGN (__stack_end__, 0x8)
+
+.stack_process  0x10000180        0x0
+                0x10000180                __stack_process_start__ = .
+ *(.stack_process .stack_process.*)
+                0x10000180                . = ALIGN (MAX ((__stack_process_start__ + __STACKSIZE_PROCESS__), .), 0x8)
+                0x10000180                __stack_process_end__ = (__stack_process_start__ + SIZEOF (.stack_process))
+                0x10000180                __stack_process_load_end__ = __stack_process_end__
+                0x10000180                __RAM_segment_used_end__ = (ALIGN (__stack_end__, 0x8) + SIZEOF (.stack_process))
+                0x00000001                . = ASSERT (((__stack_process_start__ == __stack_process_end__) || ((__stack_process_end__ >= __RAM_segment_start__) && (__stack_process_end__ <= __RAM_segment_end__))), error: .stack_process is too large to fit in RAM memory segment)
+START GROUP
+LOAD LPC_CHIP THUMB Flash Debug/acmp_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/chip_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/clock_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/crc_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/gpio_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/i2c_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/iocon_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/pinint_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/pmu_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/ring_buffer.o
+LOAD LPC_CHIP THUMB Flash Debug/sct_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/spi_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/swm_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/syscon_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/sysinit_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/uart_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/wkt_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/wwdt_8xx.o
+LOAD LPC_CHIP THUMB Flash Debug/thumb_crt0.o
+LOAD LPC_CHIP THUMB Flash Debug/system_LPC8xx.o
+LOAD /home/drob/.rowley_associates_limited/CrossWorks for ARM/v3/packages/targets/LPC1000/lib/liblpc1000_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libdebugio_mempoll_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libm_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libc_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libcpp_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libdebugio_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/lib_vfprintf_float_long_long_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/lib_vfscanf_float_long_long_cc_v6m_t_le_eabi.a
+LOAD /usr/share/crossworks_for_arm_3.1/lib/libc_user_libc_v6m_t_le_eabi.a
+END GROUP
+OUTPUT(LPC_CHIP THUMB Flash Debug/LPC_CHIP.elf elf32-littlearm)

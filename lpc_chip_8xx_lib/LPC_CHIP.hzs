@@ -1,0 +1,75 @@
+<!DOCTYPE CrossStudio_for_ARM_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints>
+  <BreakpointListItem line="42" action="" hardwareBreakpoint="" trigger="" useHWbreakpoint="false" group="Breakpoints" type="Breakpoint" state="2" counter="0" isFunctionBreakpoint="false" filename="/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/stepper/steptest.c" expression="" />
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow addressText="" bufferWidth="-1" bufferHeight="-1" addressSpace="" />
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="&amp;APP_ENTRY_POINT" numColumns="8" sizeText="sizeof(APP_ENTRY_POINT)" dataSize="1" radix="16" name="CWwaterfall" addressSpace="" />
+  <MemoryWindow autoEvaluate="0" addressText="&amp;uint32_t ch = 0, ticksave = 0" numColumns="8" sizeText="sizeof(uint32_t ch = 0, ticksave = 0)" dataSize="1" radix="16" name="stepper" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="CWwaterfall" addressSpace="" />
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="stepper" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="CWwaterfall" addressSpace="" />
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="stepper" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="CWwaterfall" addressSpace="" />
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="stepper" addressSpace="" />
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="LPC_CHIP" name="unnamed" />
+  <ProjectSessionItem path="LPC_CHIP;stepper" name="unnamed" />
+  <ProjectSessionItem path="LPC_CHIP;stepper;CMSIS Files" name="unnamed" />
+  <ProjectSessionItem path="LPC_CHIP;stepper;Source Files" name="unnamed" />
+  <ProjectSessionItem path="LPC_CHIP;stepper;System Files" name="unnamed" />
+ </Project>
+ <Register1>
+  <RegisterWindow openNodes="GPIO_PORT;GPIO_PORT/DIR0" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="GPIO_PORT/B0;GPIO_PORT/B1;GPIO_PORT/B2;GPIO_PORT/B3;GPIO_PORT/B4;GPIO_PORT/B5;GPIO_PORT/B6;GPIO_PORT/B7;GPIO_PORT/B8;GPIO_PORT/B9;GPIO_PORT/B10;GPIO_PORT/B11;GPIO_PORT/B12;GPIO_PORT/B13;GPIO_PORT/B14;GPIO_PORT/B15;GPIO_PORT/B16;GPIO_PORT/B17;GPIO_PORT/W0;GPIO_PORT/W1;GPIO_PORT/W2;GPIO_PORT/W3;GPIO_PORT/W4;GPIO_PORT/W5;GPIO_PORT/W6;GPIO_PORT/W7;GPIO_PORT/W8;GPIO_PORT/W9;GPIO_PORT/W10;GPIO_PORT/W11;GPIO_PORT/W12;GPIO_PORT/W13;GPIO_PORT/W14;GPIO_PORT/W15;GPIO_PORT/W16;GPIO_PORT/W17;GPIO_PORT/DIR0;GPIO_PORT/MASK0;GPIO_PORT/PIN0;GPIO_PORT/MPIN0;GPIO_PORT/SET0;GPIO_PORT/CLR0;GPIO_PORT/NOT0" name="CWwaterfall" />
+  <RegisterWindow openNodes="GPIO_PORT;GPIO_PORT/DIR0" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="GPIO_PORT/B0;GPIO_PORT/B1;GPIO_PORT/B2;GPIO_PORT/B3;GPIO_PORT/B4;GPIO_PORT/B5;GPIO_PORT/B6;GPIO_PORT/B7;GPIO_PORT/B8;GPIO_PORT/B9;GPIO_PORT/B10;GPIO_PORT/B11;GPIO_PORT/B12;GPIO_PORT/B13;GPIO_PORT/B14;GPIO_PORT/B15;GPIO_PORT/B16;GPIO_PORT/B17;GPIO_PORT/W0;GPIO_PORT/W1;GPIO_PORT/W2;GPIO_PORT/W3;GPIO_PORT/W4;GPIO_PORT/W5;GPIO_PORT/W6;GPIO_PORT/W7;GPIO_PORT/W8;GPIO_PORT/W9;GPIO_PORT/W10;GPIO_PORT/W11;GPIO_PORT/W12;GPIO_PORT/W13;GPIO_PORT/W14;GPIO_PORT/W15;GPIO_PORT/W16;GPIO_PORT/W17;GPIO_PORT/DIR0;GPIO_PORT/MASK0;GPIO_PORT/PIN0;GPIO_PORT/MPIN0;GPIO_PORT/SET0;GPIO_PORT/CLR0;GPIO_PORT/NOT0" name="stepper" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="CWwaterfall" />
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="stepper" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="CWwaterfall" />
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="stepper" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="CWwaterfall" />
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="stepper" />
+ </Register4>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" />
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/stepper/steptest.c" y="0" path="/home/drob/Documents/CrossWorks Projects/LPCOpen8xx/stepper/steptest.c" left="0" selected="1" name="unnamed" top="0" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="stepper" autoConnectTarget="ARM Simulator" debugSearchFileMap="../src/gpio_8xx.c
+
+../src/sct_8xx.c
+
+../src/swm_8xx.c
+" fileDialogInitialDirectory="/home/drob/Documents/CrossWorks Projects/testled" fileDialogDefaultFilter="*.c" autoConnectCapabilities="391615" debugSearchPath="" buildConfiguration="THUMB Flash Debug" />
+</session>

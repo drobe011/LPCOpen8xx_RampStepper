@@ -1,0 +1,134 @@
+#include "chip.h"
+#include "workingramp_defs.h"
+
+///GPIO
+const uint32_t DIR = 7;
+const uint32_t STEP_PIN = 16;
+const uint32_t EN = 17;
+
+///SCT
+const uint32_t AUTOLIMIT_L = (1 << 17);
+const uint32_t COMBMODE_MATCH = (1 << 12);
+const uint32_t DIRECTION_UP = (1 << 21);
+const uint32_t DIRECTION_DOWN = (2 << 21);
+const uint32_t OUTSEL_OUTPUT = (1 << 5);
+const uint32_t MATCHSEL_1 = (SCT_MATCH_1 << 0);
+
+const uint32_t STEPS_PER_REV = 400;
+const uint32_t START_SPEED_PPS = 200;
+const uint32_t FULL_SPEED_PPS = 2000;
+const uint32_t ACCEL_MUX = 3;
+
+t_Vals m_Vals;
+
+volatile uint32_t STEP_steps, STEP_rampsteps;
+void MRT_IRQHandler(void)
+{
+	switch (m_Vals.m_STATE)
+	{
+		case ACCEL:
+		if (((STEP_rampsteps+ACCEL_MUX) >= m_Vals.m_MAXRAMPSTEPS) || (m_Vals.m_SPEED >= FULL_SPEED_PPS))
+		{
+			m_Vals.m_STATE = RUN;
+			m_Vals.m_DECELSTEPS = STEP_rampsteps;
+			m_Vals.m_MAXRUNSTEPS = m_Vals.m_MOVESTEPS - (STEP_rampsteps*2);
+		}
+		else m_Vals.m_SPEED += ACCEL_MUX;
+
+		break;
+		case DECEL:
+		m_Vals.m_SPEED = (m_Vals.m_SPEED > START_SPEED_PPS) ? m_Vals.m_SPEED - ACCEL_MUX : START_SPEED_PPS;
+		if (STEP_rampsteps >= m_Vals.m_DECELSTEPS-1)
+		{
+			m_Vals.m_STATE = STOP;
+			DISABLE_RUN_CLK();
+		}
+		break;
+		default:
+		DISABLE_RAMP_CLK();
+	}
+	RUN_CLK_PPS(m_Vals.m_SPEED);
+	CLEAR_MRT_IRQ(1);
+}
+
+void SCT_IRQHandler(void)
+{
+	if (m_Vals.m_STATE == RUN)
+	{
+		if (STEP_steps >= m_Vals.m_MAXRUNSTEPS)
+		{
+			m_Vals.m_STATE = DECEL;
+			ENABLE_RAMP_CLK();
+			STEP_rampsteps = 0;
+		}
+		else STEP_steps++;
+	}
+	else if (m_Vals.m_STATE == ACCEL || m_Vals.m_STATE == DECEL) STEP_rampsteps++;
+	
+	Chip_SCT_ClearEventFlag(LPC_SCT, SCT_EVT_0);
+}
+
+void STEP_start(uint32_t moves)
+{
+	m_Vals.m_DIR = mFORWARD;
+	m_Vals.m_EN = mENABLE;
+	m_Vals.m_STATE = ACCEL;
+	m_Vals.m_SPEED = START_SPEED_PPS;
+	m_Vals.m_MOVESTEPS = moves;
+	m_Vals.m_MAXRAMPSTEPS = (moves / 10)* 2;
+	STEP_steps = 0;
+	STEP_rampsteps = 0;
+	RUN_CLK_PPS(START_SPEED_PPS);
+	ENABLE_RAMP_CLK();
+	ENABLE_RUN_CLK();
+}
+
+void STEP_setupSystem()
+{
+	SystemCoreClockUpdate();
+	SysTick_Config(SystemCoreClock/1000);
+	
+	Chip_SWM_Init();
+	Chip_SWM_MovablePinAssign(SWM_CTOUT_0_O, STEP_PIN);
+	Chip_SWM_Deinit();
+
+	Chip_GPIO_Init(LPC_GPIO_PORT);
+	Chip_GPIO_SetPinDIROutput(LPC_GPIO_PORT, 0, DIR);
+//	Chip_GPIO_SetPinDIROutput(LPC_GPIO_PORT, 0, EN);
+//	Chip_GPIO_SetPinOutHigh(LPC_GPIO_PORT, 0, DIR);
+//	Chip_GPIO_SetPinOutHigh(LPC_GPIO_PORT, 0, EN);
+
+	NVIC_EnableIRQ(SysTick_IRQn);
+	NVIC_EnableIRQ(MRT_IRQn);
+	NVIC_EnableIRQ(SCT_IRQn);
+}
+
+void STEP_setupMRT(uint32_t channel, uint32_t rate)
+{
+	Chip_MRT_Init();
+	SET_RAMP_CLKRATE(channel, uS(rate));
+	Chip_MRT_IntClear(LPC_MRT_CH(channel));
+}
+
+void STEP_setupSCT(uint32_t rate)
+{
+	Chip_SCT_Init(LPC_SCT);
+	LPC_SCT->OUTPUT = 1;
+	
+	Chip_SCT_Config(LPC_SCT, (SCT_CONFIG_32BIT_COUNTER | AUTOLIMIT_L));
+	Chip_SCT_SetControl(LPC_SCT, SCT_CTRL_BIDIR_L(1));
+	Chip_SCT_SetMatchCount(LPC_SCT, SCT_MATCH_0, rate);
+	Chip_SCT_SetMatchCount(LPC_SCT, SCT_MATCH_1, 1);
+	Chip_SCT_SetMatchReload(LPC_SCT, SCT_MATCH_0, rate);
+	Chip_SCT_SetMatchReload(LPC_SCT, SCT_MATCH_1, 1);
+	LPC_SCT->EVENT[SCT_MATCH_0].STATE = 0xFFFFFFFF;
+	LPC_SCT->EVENT[SCT_MATCH_1].STATE = 0xFFFFFFFF;
+	LPC_SCT->EVENT[SCT_MATCH_0].CTRL = (COMBMODE_MATCH | DIRECTION_UP | OUTSEL_OUTPUT);
+	LPC_SCT->EVENT[SCT_MATCH_1].CTRL = (MATCHSEL_1 | COMBMODE_MATCH | DIRECTION_DOWN | OUTSEL_OUTPUT);
+	LPC_SCT->OUT[0].SET = SCT_EVT_1;
+    LPC_SCT->OUT[0].CLR = SCT_EVT_0;
+	Chip_SCT_EnableEventInt(LPC_SCT, SCT_EVT_0);
+	Chip_SCT_SetControl(LPC_SCT, SCT_CTRL_CLRCTR_L);
+}
+
+//int main(void){}
